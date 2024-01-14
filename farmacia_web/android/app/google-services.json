@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "255236830445",
+    "project_id": "farmacia-2e933",
+    "storage_bucket": "farmacia-2e933.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:255236830445:android:687d380d2dd0bc4bb3c8e4",
+        "android_client_info": {
+          "package_name": "com.example.farmacia_web"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRxtdXyaNmhygB2xfHR-jAkVxwkLg1r9M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

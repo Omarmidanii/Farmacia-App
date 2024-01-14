@@ -1,0 +1,5 @@
+{
+    "require": {
+        "albetnov/sanctum-refresh": "*"
+    }
+}
